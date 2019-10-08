@@ -1,0 +1,6 @@
+#NewFileIsCreated
+#Fri Jul 26 18:31:27 CST 2019
+newInput=新寫入的東西
+enterWord=輸入文字
+LatestData=新增資料
+change=好我改一下
